@@ -7,8 +7,8 @@ export default defineNuxtConfig({
    app: {
     baseURL: '/',
   },
-  nitro: {
-    preset: 'static'
+   nitro: {
+    preset: 'github-pages'
   },
    site: {
     url: "https://netjon.com",
